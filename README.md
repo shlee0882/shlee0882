@@ -1,4 +1,5 @@
-### I'm SangHyun Lee  
+## About Me
+<br/> 
 
 - 💻 Software Developer - 2017 ~ Present
   - Participation in project development and maintenance - LG UPLUS, LG CNS, SK MNS, LDCC
@@ -9,6 +10,8 @@
 
 
 ## My Skill Set  
+<br/> 
+
 <table><tr><td valign="top" width="33%">
 
 
