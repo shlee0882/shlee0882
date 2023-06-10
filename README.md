@@ -1,12 +1,10 @@
 ### I'm SangHyun Lee  
-<br />
 
 - 💻 Software Developer - 2017 ~ Present
   - Participation in project development and maintenance - LG UPLUS, LG CNS, SK MNS, LDCC
 
 - 🎓 Bachelor of Science in Computer Science - INU - 2016   
   
-
 <br/>  
 
 
