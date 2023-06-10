@@ -1,5 +1,3 @@
-<br/>  
-
 ### I'm SangHyun Lee  
 <br />
 
