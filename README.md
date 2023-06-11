@@ -1,7 +1,7 @@
 ## About Me
 
 - 💻 Software Developer - 2017 ~ Present
-  - Participation in project development and maintenance - LG UPLUS, LG CNS, SK MNS, LDCC
+  - Participation in Project Development and Maintenance - LG UPLUS, LG CNS, SK MNS, LDCC
 
 - 🎓 Bachelor of Science in Computer Science - INU - 2016
 
