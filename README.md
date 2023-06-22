@@ -5,11 +5,7 @@
 
 - 🎓 Bachelor of Science in Computer Science - INU - 2016
 
-<br />
-
-
 ## My Skill Set  
-
 
 <p align="left"> 
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
@@ -38,7 +34,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </p>
-<br />
 
 ## Support me  
 <div align="left">
@@ -48,4 +43,3 @@
                     align="center"
                 />
             </a></div>
-<br />
