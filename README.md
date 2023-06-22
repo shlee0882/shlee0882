@@ -1,13 +1,15 @@
 ## About Me
 
-- 💻 Software Developer - 2017 ~ Present
-  - Participation in Project Development and Maintenance - LG UPLUS, LG CNS, SK MNS, LDCC
+💻 Software Developer - 2017 ~ Present
+- Participation in Project Development and Maintenance - LG UPLUS, LG CNS, SK MNS, LDCC
 
-- 🎓 Bachelor of Science in Computer Science - INU - 2016
+🎓 Bachelor of Science in Computer Science - INU - 2016
+
+<br />
+
 
 ## My Skill Set  
 
-<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
@@ -36,4 +38,14 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </p>
+<br />
 
+## Support me  
+<div align="left">
+            <a href="https://www.buymeacoffee.com/iY2BE9h4O" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
