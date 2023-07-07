@@ -36,3 +36,10 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </p>
 
+## My Public Test App
+
+- sufernity community app
+  - https://play.google.com/store/apps/details?id=com.shlee0882.sufernity
+
+- shake lottery recommend app
+  - https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend
