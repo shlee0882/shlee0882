@@ -36,8 +36,12 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </p>
 
+
 ## My Public Test App
 
-- [sufernity community app](https://play.google.com/store/apps/details?id=com.shlee0882.sufernity)
+<p align="left"> 
+  <a href="https://play.google.com/store/apps/details?id=com.shlee0882.sufernity" target="_blank"><img style="margin: 10px" src="https://shlee0882.github.io/flutter-static-files/img/logo.jpg" alt="sufernity" height="50" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend" target="_blank"><img style="margin: 10px" src="https://shlee0882.github.io/flutter-static-files/img/lottery_logo.jpg" alt="lottery" height="50" />
+</p>
 
-- [shake lottery app](https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend)
