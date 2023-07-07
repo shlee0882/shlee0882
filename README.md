@@ -39,7 +39,7 @@
 ## My Public Test App
 
 - sufernity community app
-  - https://play.google.com/store/apps/details?id=com.shlee0882.sufernity
+  - <a href="https://play.google.com/store/apps/details?id=com.shlee0882.sufernity" target="_blank">sufernity community app</a>
 
 - shake lottery recommend app
-  - https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend
+  - <a href="https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend" target="_blank">shake lottery app</a> 
