@@ -39,17 +39,29 @@
 
 ## My Public Test App
 
-<div style="display: flex;">
-  <div style="margin-right: 35px;">
-  <a href="https://play.google.com/store/apps/details?id=com.shlee0882.sufernity" target="_blank" style="display: flex; align-items: center;">
-    <img style="margin: 10px; border-radius: 50%;" src="https://shlee0882.github.io/flutter-static-files/img/logo.jpg" alt="sufernity" height="80" />
-    <div>서퍼니티</div>
-  </a>
-  </div>
-  <div>
-  <a href="https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend" target="_blank" style="display: flex; align-items: center;">
-    <img style="margin: 10px; border-radius: 50%;" src="https://shlee0882.github.io/flutter-static-files/img/lottery_logo.jpg" alt="lottery" height="80" />
-    <div>로또 자동추첨기</div>
-  </a>
-  </div>
-</div>
+<table border="0">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://play.google.com/store/apps/details?id=com.shlee0882.sufernity" target="_blank">
+          <img style="margin: 10px; border-radius: 50%;" src="https://shlee0882.github.io/flutter-static-files/img/logo.jpg" alt="JavaScript" height="80" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://play.google.com/store/apps/details?id=com.shlee0882.sufernity" target="_blank">
+        서퍼니티
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend" target="_blank">
+          <img style="margin: 10px; border-radius: 50%;" src="https://shlee0882.github.io/flutter-static-files/img/lottery_logo.jpg" alt="JavaScript" height="80" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://play.google.com/store/apps/details?id=com.shlee0882.sufernity" target="_blank">
+          로또 자동추첨기
+      </a>
+    </td>    
+  </tr>
+</table>
+
+
