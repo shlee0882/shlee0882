@@ -43,7 +43,7 @@
   <tr>
     <td align="center" style="border: none;">
       <a href="https://play.google.com/store/apps/details?id=com.shlee0882.sufernity" target="_blank">
-          <img style="margin: 10px; border-radius: 50%;" src="https://shlee0882.github.io/flutter-static-files/img/logo_round2.png" alt="JavaScript" height="50" />
+          <img style="margin: 10px; border-radius: 50%;" src="https://shlee0882.github.io/flutter-static-files/img/logo_round2.png" alt="JavaScript" width="70" height="70" />
       </a>
     </td>
     <td align="center" style="border: none;">
@@ -53,7 +53,7 @@
     </td>
     <td align="center" style="border: none;">
       <a href="https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend" target="_blank">
-          <img style="margin: 10px; border-radius: 50%;" src="https://shlee0882.github.io/flutter-static-files/img/lottery_logo_round2.png" alt="JavaScript" height="50" />
+          <img style="margin: 10px; border-radius: 50%;" src="https://shlee0882.github.io/flutter-static-files/img/lottery_logo_round2.png" alt="JavaScript" width="70" height="70" />
       </a>
     </td>
     <td align="center" style="border: none;">
