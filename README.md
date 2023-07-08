@@ -39,9 +39,17 @@
 
 ## My Public Test App
 
-<p align="left"> 
-  <a href="https://play.google.com/store/apps/details?id=com.shlee0882.sufernity" target="_blank"><img style="margin: 10px" src="https://shlee0882.github.io/flutter-static-files/img/logo.jpg" alt="sufernity" height="50" />
+<div style="display: flex;">
+  <div style="margin-right: 35px;">
+  <a href="https://play.google.com/store/apps/details?id=com.shlee0882.sufernity" target="_blank" style="display: flex; align-items: center;">
+    <img style="margin: 10px; border-radius: 50%;" src="https://shlee0882.github.io/flutter-static-files/img/logo.jpg" alt="sufernity" height="80" />
+    <div>서퍼니티</div>
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend" target="_blank"><img style="margin: 10px" src="https://shlee0882.github.io/flutter-static-files/img/lottery_logo.jpg" alt="lottery" height="50" />
-</p>
-
+  </div>
+  <div>
+  <a href="https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend" target="_blank" style="display: flex; align-items: center;">
+    <img style="margin: 10px; border-radius: 50%;" src="https://shlee0882.github.io/flutter-static-files/img/lottery_logo.jpg" alt="lottery" height="80" />
+    <div>로또 자동추첨기</div>
+  </a>
+  </div>
+</div>
