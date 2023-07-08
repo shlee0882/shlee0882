@@ -57,7 +57,7 @@
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="https://play.google.com/store/apps/details?id=com.shlee0882.sufernity" target="_blank">
+      <a href="https://play.google.com/store/apps/details?id=com.shlee0882.lotteryRecommend" target="_blank">
           로또 자동추첨기
       </a>
     </td>    
