@@ -65,6 +65,7 @@
 </table>
 
 ## My Personal Github Blog
+[마곡뚜벅쵸의 기술블로그](https://shlee0882.tistory.com/)
 
 [마곡뚜벅쵸의 개인공간](https://shlee0882.github.io/)
 
