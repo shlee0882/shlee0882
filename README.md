@@ -1,11 +1,11 @@
-## About Me
+### About Me
 
 - 💻 Software Developer - 2017 ~ Present
   - Participation in Project Development and Maintenance - LG UPLUS, LG CNS, LDCC
 
 - 🎓 Bachelor of Science in Computer Science - INU - 2016
 
-## My Skill Set  
+### My Skill Set  
 
 <p align="left"> 
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
@@ -37,7 +37,7 @@
 </p>
 
 
-## My Public Test App
+### My Public Test App
 
 <table border="0">
   <tr>
@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-## My Personal Github Blog
+### My Personal Github Blog
 [마곡뚜벅쵸의 기술블로그](https://shlee0882.tistory.com/)
 
 [마곡뚜벅쵸의 개인공간](https://shlee0882.github.io/)
