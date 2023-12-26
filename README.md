@@ -36,6 +36,10 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </p>
 
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=shlee0882&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 ## My Public Test App
 
